@@ -7,5 +7,6 @@ dependencies:
   - psycopg2
   - jupyter
   - ipywidgets
+  - nb_conda_kernels
   - pip:
     - allensdk
