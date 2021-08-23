@@ -10,3 +10,4 @@ dependencies:
   - nb_conda_kernels
   - pip:
     - allensdk
+    - mindscope_utilities
