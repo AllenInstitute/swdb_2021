@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - psycopg2
+  - jupyter
+  - ipywidgets
+  - nb_conda_kernels
+  - pip:
+    - allensdk
